@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/client-combined-3.141.59.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/client-combined-3.141.59-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/libs" recursive="false" />
+  </library>
+</component>
